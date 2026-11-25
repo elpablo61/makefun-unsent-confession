@@ -1,0 +1,1 @@
+{"description":"Unsent: The Micro-Confession Sprint — a two-part micro-confession written to /output/entry.txt","license":"MIT","main":"main.ts","name":"makefun-unsent-confession","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
